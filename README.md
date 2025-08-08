@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/7UeCw6D.gif" alt="Banner" width="100%"/>
+  <img src=https://static.vecteezy.com/system/resources/previews/006/362/890/original/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg alt="Banner" width="100%"/>
 </p>
 
 <!-- Hiệu ứng chữ chạy -->
@@ -52,23 +52,24 @@
 </p>
 
 ---
-
+<!--
 ## 📂 Dự án nổi bật
 - 🚀 [Tên Dự Án 1](https://github.com/YOUR_USERNAME/REPO_1) - Mô tả ngắn gọn.
 - 💼 [Tên Dự Án 2](https://github.com/YOUR_USERNAME/REPO_2) - Mô tả ngắn gọn.
 - ⚡ [Tên Dự Án 3](https://github.com/YOUR_USERNAME/REPO_3) - Mô tả ngắn gọn.
 
 ---
+-->
 
 ## 📫 Liên hệ
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:phanquocthang211005@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/PHANQUOCTHANG">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourname">
+  <a href="https://www.linkedin.com/in/th%E1%BA%AFng-phan-qu%E1%BB%91c-623196306"/>
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
