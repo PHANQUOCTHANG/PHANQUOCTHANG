@@ -4,9 +4,11 @@
 </p>
 
 <!-- Hiệu ứng chữ chạy -->
+<!--
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=550&lines=Xin+chào%2C+mình+là+[Tên+Bạn]!;Fullstack+Developer;Yêu+công+nghệ+%26+chia+sẻ+kiến+thức" alt="Typing SVG" />
 </h1>
+-->
 
 ---
 
@@ -44,13 +46,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ---
-
+<!--
 ## 📊 Thống kê GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
+-->
 ---
 <!--
 ## 📂 Dự án nổi bật
