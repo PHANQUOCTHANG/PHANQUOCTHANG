@@ -81,7 +81,7 @@
 
 ---
 <p align="center">
-  💡 *"Code là nghệ thuật, bug là cảm hứng sáng tạo."*
+  💡 **"Code là nghệ thuật, bug là cảm hứng sáng tạo."**
 </p>
 
 
