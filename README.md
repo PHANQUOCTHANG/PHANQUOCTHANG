@@ -81,12 +81,12 @@
 
 ---
 <p align="center">
-  💡 **"Code là nghệ thuật, bug là cảm hứng sáng tạo."**
+  💡 <strong>"Code là nghệ thuật, bug là cảm hứng sáng tạo."</strong>
 </p>
-
 
 <!-- ===== Cảm ơn ===== -->
 <p align="center">
-  🙏 **Cảm ơn bạn đã ghé thăm hồ sơ GitHub của mình!**  
+  🙏 <strong>Cảm ơn bạn đã ghé thăm hồ sơ GitHub của mình!</strong><br>
   Nếu bạn thấy thú vị, hãy ⭐ repo này hoặc kết nối với mình nhé!
 </p>
+
