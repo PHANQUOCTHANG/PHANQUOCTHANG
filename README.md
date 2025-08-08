@@ -13,11 +13,13 @@
 ---
 
 ## 🧑‍💻 Giới thiệu bản thân
-- 🔭 Đang theo đuổi con đường **Fullstack Developer**.
-- 🌱 Liên tục học hỏi công nghệ mới và áp dụng vào dự án thực tế.
-- 🎯 Mục tiêu: Tạo ra ứng dụng **hiệu suất cao, tối ưu trải nghiệm người dùng**.
+- 👋 Xin chào! Mình là **Quốc Thắng**, một lập trình viên đam mê công nghệ và sáng tạo.
+- 🔭 Hiện đang trên con đường trở thành **Software Engineer** chuyên nghiệp.
+- 🌱 Luôn học hỏi công nghệ mới và áp dụng vào các dự án thực tế.
+- 🎯 Mục tiêu: Xây dựng ứng dụng **hiệu suất cao, tối ưu trải nghiệm người dùng** và có khả năng mở rộng tốt.
+- 🕰 Điểm mạnh: **Kiên nhẫn** trong phân tích vấn đề, tìm giải pháp và tối ưu hệ thống.
 - 📚 Đam mê chia sẻ kiến thức, đóng góp cho cộng đồng lập trình.
-- ☕ Cà phê và code là hai thứ không thể thiếu.
+- ☕ Cà phê , thể thao và code là hai thứ không thể thiếu.
 
 ---
 
@@ -80,4 +82,11 @@
 ---
 <p align="center">
   💡 *"Code là nghệ thuật, bug là cảm hứng sáng tạo."*
+</p>
+
+
+<!-- ===== Cảm ơn ===== -->
+<p align="center">
+  🙏 **Cảm ơn bạn đã ghé thăm hồ sơ GitHub của mình!**  
+  Nếu bạn thấy thú vị, hãy ⭐ repo này hoặc kết nối với mình nhé!
 </p>
