@@ -19,7 +19,7 @@
 - 🎯 Mục tiêu: Xây dựng ứng dụng **hiệu suất cao, tối ưu trải nghiệm người dùng** và có khả năng mở rộng tốt.
 - 🕰 Điểm mạnh: **Kiên nhẫn** trong phân tích vấn đề, tìm giải pháp và tối ưu hệ thống.
 - 📚 Đam mê chia sẻ kiến thức, đóng góp cho cộng đồng lập trình.
-- ☕ Cà phê , thể thao và code là hai thứ không thể thiếu.
+- ☕ Cà phê , thể thao và code là ba thứ không thể thiếu.
 
 ---
 
