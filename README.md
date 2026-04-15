@@ -7,7 +7,7 @@
 
 # 👋 Hello, I'm **Quốc Thắng**
 
-💻 Backend Developer | Future Software Engineer  
+💻 Fullstack Developer | Future Software Engineer  
 🚀 Passionate about building scalable systems and high-performance applications.
 
 ---
